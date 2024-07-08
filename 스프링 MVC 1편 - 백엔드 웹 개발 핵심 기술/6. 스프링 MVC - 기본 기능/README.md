@@ -1,4 +1,4 @@
-# ⭐ 6. 스프링 MVC - 기본 기
+# ⭐ 6. 스프링 MVC - 기본 기본 기능
 # ✏️ 프로젝트 생성
 ![image](https://github.com/2024-SpringStudy/spring/assets/78257436/87d86bc4-75f6-418e-803f-569a8b2cda8a)
 
